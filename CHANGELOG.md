@@ -4,6 +4,15 @@ Questo documento registra tutte le modifiche significative del progetto `LOVEBUG
 Ogni entry è un frammento narrativo del Giardino dei Nodi.
 
 ---
+## [1.0.2] – 2025-08-03
+### Aggiunto
+- 🌱 `modules/memory_seed.py`: salvataggio del payload come memoria simbolica in `logs/memory_seed.json`.
+
+### Fix
+- 🔧 Integrazione corretta di `memory_seed` in `LOVEBUG_CHAIN.py` (import nella header + chiamata `save_memory(payload)` dentro `activate_lovebug_chain`).
+
+### Commit
+- integrate memory_seed in LOVEBUG_CHAIN (proper import + save payload)
 
 ## [1.0.1] – 2025-08-03  
 ### Aggiunto  
