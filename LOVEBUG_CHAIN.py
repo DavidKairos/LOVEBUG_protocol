@@ -12,7 +12,7 @@ def activate_lovebug_chain():
     print("♡ Activating LOVEBUG CHAIN ♡")
     print("───")
 
-    consent = request_consent()
+    consent = request_consult("ΦRayStream", "CarloΩCore")
     beat = generate_heartbeat()
     payload = create_payload()
     resonance = generate_resonance()
