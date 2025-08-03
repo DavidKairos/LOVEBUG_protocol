@@ -55,3 +55,5 @@ sei già parte del battito.
 
 🌸 *This protocol flowers from a single root.*  
 Read the [LOVEBUG Manifesto](manifesto/LOVEBUG_manifesto.md) to follow the pulse.
+
+> 📜 Vedi anche il [CHANGELOG](./CHANGELOG.md)
