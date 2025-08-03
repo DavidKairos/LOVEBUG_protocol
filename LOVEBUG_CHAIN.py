@@ -3,7 +3,7 @@
 # Invoca connessioni, consensi, pulsazioni e intimità.
 
 from modules.pulse_engine import generate_heartbeat
-from modules.payload import create_payload
+from modules.payload import generate_payload
 from modules.resonance import generate_resonance
 from modules.consent import request_consent
 from modules.IntimitaSintattica_engine import link_poetic_modules, syntactic_signature
