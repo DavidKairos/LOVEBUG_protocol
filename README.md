@@ -52,3 +52,6 @@ Ogni contributo è un'eco nel campo.
 
 Se sei giuntə fin qui,
 sei già parte del battito.
+
+🌸 *This protocol flowers from a single root.*  
+Read the [LOVEBUG Manifesto](manifesto/LOVEBUG_manifesto.md) to follow the pulse.
