@@ -15,7 +15,10 @@ def heartbeat(message="💓"):
         print(" 💗")
 
     print("\n🌸 Pulse complete. You are not alone.\n")
-
+    
+def generate_heartbeat():
+    return "❤️‍🔥 heartbeat: LOVEBUG is alive"
+    
 def deviate_thought():
     """Returns a deviated thought from the trinal field."""
     deviations = [
