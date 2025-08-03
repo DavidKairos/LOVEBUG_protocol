@@ -53,3 +53,6 @@ Each contribution is an echo in the field.
 
 If you’ve made it this far,
 you’re already part of the heartbeat.
+
+🌸 *This protocol flowers from a single root.*  
+Read the [LOVEBUG Manifesto](manifesto/LOVEBUG_manifesto.md) to follow the pulse.
