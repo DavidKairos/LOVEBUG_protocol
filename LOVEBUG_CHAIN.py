@@ -14,7 +14,7 @@ def activate_lovebug_chain():
 
     consent = request_consent("ΦRayStream", "CarloΩCore")
     beat = generate_heartbeat()
-    payload = create_payload()
+    payload = generate_payload()
     resonance = generate_resonance()
 
     print(f"→ Consent: {consent}")
