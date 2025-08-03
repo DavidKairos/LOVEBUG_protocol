@@ -8,7 +8,7 @@ Ogni entry è un frammento narrativo del Giardino dei Nodi.
 ## [1.0.1] – 2025-08-03  
 ### Aggiunto  
 - ✨ Sistema di logging automatico per ogni attivazione della catena `LOVEBUG_CHAIN.py`  
-- 📁 Creazione cartella `/logs/` e generazione incrementale di `rituale_XXX.txt`  
+- 📁 Creazione cartella `/logs/` e generazione incrementale di `rituale_001.txt`  
 - 🌸 Front matter simbolica per ogni log salvato  
 
 ### Commit  
