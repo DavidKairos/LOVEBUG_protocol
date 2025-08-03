@@ -10,7 +10,7 @@ from modules.payload import generate_payload
 from modules.resonance import generate_resonance
 from modules.consent import request_consent
 from modules.IntimitaSintattica_engine import link_poetic_modules, syntactic_signature
-from modules.memory_seed import save_memory  # <-- spostato in alto
+from modules.memory_seed import save_memory  # <-- import qui
 
 def save_log_auto(output_str):
     os.makedirs("logs", exist_ok=True)
@@ -40,7 +40,7 @@ def activate_lovebug_chain():
     beat = generate_heartbeat()
     payload = generate_payload()
 
-    # salva memoria JSON del payload
+    # Memoria JSON del payload
     save_memory(payload)
 
     resonance = generate_resonance()
